@@ -131,7 +131,7 @@ public:
     // for CoreS3
     int i2c_port = 1;
     int i2c_sda  = GPIO_NUM_12;
-    int i2c_scl  = GPIO_NUM_11;
+    int i2c_scl  = GPIO_NUM_13;
     int spi_cs   = GPIO_NUM_7;
     int spi_mosi = GPIO_NUM_37;
     int spi_miso = GPIO_NUM_35;
